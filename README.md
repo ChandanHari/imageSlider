@@ -1,0 +1,2 @@
+# imageSlider
+Animated image slider
